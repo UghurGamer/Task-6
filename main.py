@@ -1,15 +1,20 @@
 def riddle_game():
     riddles={
-        "1. What is always coming but never arrives? ": "Tomorrow",
-        "2. What gets wetter the more it dries? " : "Towel",
-        "3. What can be broken but never held? " : "Promise",
-        "4. What word is spelled incorrectly in every single dictionary? " : "Incorrectly",
-        "5. What is it that lives if it is fed, and dies if you give it a drink?" : "Fire",
-        "6. What never asks a question but gets answered all the time?":"Cellphone",
-        "7. What word would you use to describe a man who does not have all his fingers on one hand?":"Normal",
-        "8. What goes up but never ever comes down?" : "Age",
-        "9. What can one catch that is not thrown?" : "Cold",
-        "10. If you have one, you want to share it. But once you share it, you do not have it. What is it?" : "Secret"
+        "1. What is the capital of France?\n A) Paris\n B)London\n C)Berlin\n D)France": "A",
+        "2. What does a butcher do for a living?\n A) Makes bread\n B)Sells meat\n C)Makes pencils\n D)Sells books" : "B",
+        "3. Which of these is NOT a Pixar film?\n A) Wall-E\n B)Cloduy with a chance of meatballs\n C)Coco\n D)A bug's life " : "B",
+        "4. Which of these animals is a marsupial?\n A) Wallaby\n B)Panda\n C)Penguin\n D)Woodpecker " : "A",
+        "5. Which one of these was NOT a president of the United States of America?\n A) Donald Trump\n B)Barack Obama\n C)George Washington\n D)Arnold Schwarzenegger " : "D",
+        "6. Which of these is a group of hills in the UK?\n A) The Alps\n B)The Andes\n C)The Pennines\n D)The Himalayas ":"C",
+        "7. Who wrote Alice in Wonderland?\n A) JK Rowling\n B)CS Lewis\n C)Lewis Carroll\n D)Charles Dickens ":"C",
+        "8. Who invented the telephone?\n A) Alexander Graham Bell\n B)Albert Einstein\n C)Thomas Edison\n D)Nikola Tesla" : "A",
+        "9. Who won the Men's Football World Cup 2018?\n A) England\n B)Brazil\n C)France\n D)Germany " : "C",
+        "10. Which year did WW2 end?\n A) 1939\n B)1942\n C)1944\n D)1945 " : "D",
+        "11. 2020 was a leap year, but when was the next leap year?\n A) 2022\n B)2024\n C)2026\n D)2028 " : "B",
+        "12. Which of these vegetables is technically a fruit?\n A) Potato\n B)Carrot\n C)Broccoli\n D)Tomato " : "D",
+        "13. How many countries are there in the world?\n A) 194\n B)193\n C)195\n D)196 " : "C",
+        "14. What does the word 'Reticent' mean?\n A) Being shy and not show your feelings\n B)Being ashamed\n C)Being Loved or seen\n D)Being hatred " : "A",
+        "15. Which artist had the best selling single in the UK in 2019?\n A) Old town road\n B)Someone you loved\n C)I don't care\n D)Bad guy " : "B"
     }
     print("Welcome to the riddle game!")
 
